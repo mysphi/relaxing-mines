@@ -1,7 +1,7 @@
 // Offline support: keep the game's files on the phone so it opens with no signal.
 // Bump VERSION whenever the app's files change so phones pick up the update.
 
-const VERSION = 'relaxing-mines-v1';
+const VERSION = 'relaxing-mines-v2';
 const APP_FILES = [
   './',
   'index.html',
