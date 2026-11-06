@@ -2,7 +2,7 @@
   "name": "Relaxing Mines",
   "short_name": "Relaxing Mines",
   "description": "A calm, ad-free mine-clearing puzzle with no timer.",
-  "id": "/relaxing-mines/",
+  "id": "/relaxing-mines/app",
   "start_url": "/relaxing-mines/",
   "scope": "/relaxing-mines/",
   "display": "standalone",
